@@ -1,11 +1,1 @@
-{
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
-}
+{"id":"obsidian-cv-plugin","name":"CV Manager","version":"1.0.0","minAppVersion":"0.15.0","description":"Create and manage your CV in Markdown with real-time preview and PDF export","author":"excelsier","authorUrl":"https://github.com/excelsier","isDesktopOnly":false,"fundingUrl":{"GitHub":"https://github.com/excelsier"},"main":"main.js","js":["main.js","main-1.0.0.js"],"css":["styles.css","styles-1.0.0.css"]}
