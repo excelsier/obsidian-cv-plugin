@@ -1,1 +1,1 @@
-import { Plugin, Notice } from 'obsidian'; export default class CVPluginTest extends Plugin { async onload() { console.log('Loading CV Plugin Test'); this.addRibbonIcon('document', 'CV Plugin Test', () => { const notice = new Notice('CV Plugin Test is active!'); }); } async onunload() { console.log('Unloading CV Plugin Test'); } }
+import { Plugin, Notice } from "obsidian"; export default class CVPluginTest extends Plugin { async onload() { console.log("Loading CV Plugin"); this.addRibbonIcon("document", "CV Plugin", () => { new Notice("CV Plugin is active!"); }); } }

@@ -1,1 +1,1 @@
-{"id":"cv-plugin-test","name":"CV Plugin Test","version":"1.0.0","minAppVersion":"0.15.0","description":"Simple test for CV Plugin","author":"excelsier","authorUrl":"https://github.com/excelsier","main":"main.js"}
+{"id":"cv-plugin-test","name":"CV Plugin Test","version":"1.0.0","minAppVersion":"0.15.0","description":"Simple test for CV Plugin","author":"excelsier","authorUrl":"https://github.com/excelsier","isDesktopOnly":false,"js":["main.js"],"css":["styles.css"]}
